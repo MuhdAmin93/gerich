@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1aae3703.css",
+    "main.js": "/static/js/main.2db81ac2.js",
+    "static/media/meal.mp4": "/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
+    "static/media/bg.png": "/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/gallery07.jpg": "/static/media/gallery07.c71f0116b5363f39c5c8.jpg",
+    "static/media/gallery01.jpg": "/static/media/gallery01.5e2ce1285591809d6292.jpg",
+    "static/media/gallery05.jpg": "/static/media/gallery05.528d0f6103ad7ec13602.jpg",
+    "static/media/welcome.png": "/static/media/welcome.d724eb984456d9c97470.png",
+    "static/media/gallery06.jpg": "/static/media/gallery06.43ad28bc74cde17f58ca.jpg",
+    "static/media/gallery08.jpg": "/static/media/gallery08.eda3ca0d2a81b8b8824e.jpg",
+    "static/media/findus.png": "/static/media/findus.585c393ccd3671513743.png",
+    "static/media/laurels.png": "/static/media/laurels.e760828692795d4aafd7.png",
+    "static/media/gallery03.jpg": "/static/media/gallery03.f25935db09364b57c5aa.jpg",
+    "static/media/chef.png": "/static/media/chef.02d6c5b61bfdc70303b4.png",
+    "static/media/menu.png": "/static/media/menu.a8287c67809afebcc280.png",
+    "static/media/gallery02.jpg": "/static/media/gallery02.4844c1404cacafb4b99c.jpg",
+    "static/media/gallery04.png": "/static/media/gallery04.c36a695f8a3b9d311106.png",
+    "static/media/knife.png": "/static/media/knife.1121c0a5afb62acb31cb.png",
+    "static/media/overlaybg.png": "/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/G.png": "/static/media/G.b571eb82e589ec305ec9.png",
+    "static/media/logo.png": "/static/media/logo.0286194c03de0a90dac9.png",
+    "static/media/award02.png": "/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "static/media/sign.png": "/static/media/sign.9bf0bd90ad4caa17991f.png",
+    "index.html": "/index.html",
+    "static/media/spoon.svg": "/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
+    "main.1aae3703.css.map": "/static/css/main.1aae3703.css.map",
+    "main.2db81ac2.js.map": "/static/js/main.2db81ac2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1aae3703.css",
+    "static/js/main.2db81ac2.js"
+  ]
+}
