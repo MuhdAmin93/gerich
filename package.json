@@ -11,8 +11,8 @@
     "react-dom": "^18.2.0",
     "react-icons": "^4.8.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4",
-    "hompages": "git+https://github.com/MuhdAmin93/gerich.git"
+    "web-vitals": "^2.1.4"
+    
   },
   "scripts": {
     "start": "react-scripts start",
@@ -44,5 +44,6 @@
   "devDependencies": {},
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "hompage": "https://github.com/MuhdAmin93.github.io/gerich"
 }
